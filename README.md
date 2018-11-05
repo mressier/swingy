@@ -1,6 +1,8 @@
-# swingy
+# Swingy
 Fait en Decembre 2017
+
 Langage : Java
+
 Outils : IntellijIDEA, maven, git, SWING
 
 ## Projet 42 - Créer un RPG textuel
